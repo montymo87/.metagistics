@@ -1,0 +1,10 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.prod.website-files.com	TRUE	/	FALSE	1999999999	__cf_bm	bpclVTqZRCQL1H83b48G4_XpT3JbrNvsDG2AgmY8GQo-1730279882-1.0.1.1-xd.hjji06mFq7PO6waHzirOeo4oeR3fTDfUn59cCg9Pfm_PK4sYmmk8QSI9vBJ5Ti.yk2XhGeWDinn8HIzdC3g
+cdn.prod.website-files.com	TRUE	/	FALSE	1999999999	SameSite	None
+.cdn.webflow.com	TRUE	/	FALSE	1999999999	__cf_bm	JjH9B5bUoI8tRLqmbsmYCyBiSXGNuI_UrT9g3XL8Ko8-1730279884-1.0.1.1-T9L1PMTep3H1geHqjXplMw0il2yCHZStUsqvRdJZOUNBxRvnFkwQHnIfzIKxKVVZKM78e4HD1dYZjji4ngx3Sw
+.uploads-ssl.webflow.com	TRUE	/	FALSE	1999999999	__cf_bm	wKmjSnBWLN2DN7R52d1gNS_Tpyonrx5hMrUdANiagVM-1730279892-1.0.1.1-fVo_wa9VzeKBQ8NOO2zPwpAhwgE8NIsIohDwkvwQIo682GFD6a9RbuS_qH646hnEYtNvlR4JEzGFls4kOdpWRw
+uploads-ssl.webflow.com	TRUE	/	FALSE	1999999999	SameSite	None
+.cdn.webflow.com	TRUE	/	FALSE	1999999999	_cfuvid	4qTyX05ePwOvfU_pM5zycZuKgkH4WCsCsurlKe3tby8-1730279917681-0.0.1.1-604800000
+www.metagistics.uk	TRUE	/	FALSE	1999999999	SameSite	None
+
